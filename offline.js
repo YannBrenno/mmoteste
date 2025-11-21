@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1763744743,
+	"version": 1763747152,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,7 +7,11 @@
 		"offlineClient.js",
 		"images/aimspot-sheet0.png",
 		"images/peer-sheet0.png",
+		"images/peer-sheet1.png",
 		"images/peerlaser-sheet0.png",
+		"images/colisao-sheet0.png",
+		"images/dano-sheet0.png",
+		"images/player_dano-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
